@@ -14,13 +14,13 @@ Explain whether each scenario is a **classification or regression** problem, and
 
 **(a)**  We collect data on 200 protected marine reserves worldwide. For each reserve we record species richness, reserve size, years since establishment, enforcement budget, and proximity to human settlements. We are interested in understanding which factors affect species richness.
 
-> **Your Answer:**
+> **This would be a regression problem as we want to understand the factors that affect species richness (quantitative). Because of this, the goal of this would be inference as mentioned, we want to understand what underlying factors affect species richness. The number of observation equals 200 reserves and the number of predictors is 4. **
 
 ---
 
 **(b)** A conservation agency wants to know whether a proposed habitat corridor will successfully support wildlife movement or fail to do so. They collect data on 30 previously established corridors. For each corridor they have recorded whether wildlife movement was successful or unsuccessful, corridor width, length, surrounding land use type, and eight other variables.
 
-> **Your Answer:**
+> ** This would be a classification problem as the outcome is binary (failure or success) and categorical. The goal of this problem is prediction as the agency wants to know whether the proposed habitat corridor will be successful. The number of the observations is 30 and the number of predictors is 11. **
 
 ---
 
